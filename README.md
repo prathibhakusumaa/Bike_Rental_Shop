@@ -1,1 +1,2 @@
 # Bike_Rental_Shop
+The Bike Rental Shop project is designed to analyze and optimize the operations of a local bike rental business. Owned by Emily, the shop offers various types of bikes for rent and aims to enhance its service and profitability through data-driven insights. This project utilizes SQL to explore the shop's database, which includes information about customers, bikes, rentals, and memberships. By answering key business questions, the goal is to provide actionable recommendations that can help Emily grow her business and better serve her customers.
